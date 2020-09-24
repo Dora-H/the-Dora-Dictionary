@@ -18,6 +18,7 @@
    - No duplicate name 
    
 2. Second Set up password :
+   1. Set up passoword
    - Digits only
    - Six digits
    - Digits can be repeated
