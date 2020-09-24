@@ -5,13 +5,13 @@
 'By entering 'Enter' to be back pre-lever at every level.'
 
 ## First Level 
-### 1.Log_in ( if user choose 1)
+1.Log_in ( if user choose 1)
 Log in (name and password) :
       - if log in successfully
       - "Logged in successfully." will inform users
       - Jump to second level.(1.Search English Words. 2.Search My_Vocabs. 3.Game of Word Challenge.)
      
-## 1.Sign_up ( if user choose 2)
+1.Sign_up ( if user choose 2)
 Sign up :
       - No enter whitespace, e.g '  '
       - No punctuation marks, e.g ** or /* or @#
@@ -26,7 +26,7 @@ Set up password :
       - "Registered successfully." will inform users
 - if Sign up successfully, return to first level. "Enter your action(1.Log_in 2.Sign_up 3.Quit)"
            
-## 1.Quit ( if user choose 3)
+1.Quit ( if user choose 3)
 Quit from the-Dora-Dictionary :
       - "Thanks for using the Dora Dictionary."
 
