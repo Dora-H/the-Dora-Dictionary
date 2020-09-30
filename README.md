@@ -30,11 +30,11 @@ By entering "Enter" to be back pre-lever at every level.
         - "Thanks for using the Dora Dictionary."
 
 ## Second Level (search words / view savings words /  word-guessing game.)
-    #### 1.Search English Words.
-    #### 2.Search My_Vocabs. 
-     - view users saving words
-     - No duplicate saving
-     - no meanings saving function (only word, and part of speech)
-    #### 3.Game of Word Challenge.
-     - guess words for only 9 times
-     - no hints
+ #### 1.Search English Words.
+ #### 2.Search My_Vocabs. 
+  - view users saving words
+  - No duplicate saving
+  - no meanings saving function (only word, and part of speech)
+ #### 3.Game of Word Challenge.
+  - guess words for only 9 times
+  - no hints
