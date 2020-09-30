@@ -5,7 +5,7 @@
 By entering "Enter" to be back pre-lever at every level.
 
 
-## First Level (Enter your action(1.Log_in 2.Sign_up 3.Quit)
+## First Level (Enter your action(1.Log_in 2.Sign_up 3.Quit))
 #### 1.Log_in ( if user choose 1) 
 Log in (name and password) :
    - if log in successfully
@@ -17,6 +17,7 @@ Sign up :
    - No punctuation marks, e.g ** or /* or @#
    - No digits e.g 11 or 159 or 3
    - No duplicate name
+   
 Set up password :
    - Digits only
    - 6-digit code
@@ -25,6 +26,7 @@ Set up password :
    - if register successfully
    - "Registered successfully." will inform users
    - if Sign up successfully, return to first level. "Enter your action(1.Log_in 2.Sign_up 3.Quit)"
+   
 #### 3.Quit ( if user choose 3)
 Quit from the-Dora-Dictionary :
    - "Thanks for using the Dora Dictionary."
