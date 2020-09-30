@@ -24,7 +24,7 @@ Set up password :
     - Verify password again
     - if register successfully
     - "Registered successfully." will inform users
-- if Sign up successfully, return to first level. "Enter your action(1.Log_in 2.Sign_up 3.Quit)"
+    - if Sign up successfully, return to first level. "Enter your action(1.Log_in 2.Sign_up 3.Quit)"
 3.Quit ( if user choose 3)
 Quit from the-Dora-Dictionary :
     - "Thanks for using the Dora Dictionary."
