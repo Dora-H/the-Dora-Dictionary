@@ -4,12 +4,15 @@
 "Enter your action(1.Log_in 2.Sign_up 3.Quit)" will show first, users can simply choose number 1,2,3 to go next level.
 By entering "Enter" to be back pre-lever at every level.
 
+
 ## First Level (Enter your action(1.Log_in 2.Sign_up 3.Quit)
+
 1.Log_in ( if user choose 1)
       Log in (name and password) :
             - if log in successfully
             - "Logged in successfully." will inform users
             - Jump to second level.(1.Search English Words. 2.Search My_Vocabs. 3.Game of Word Challenge.)
+
 
 2.Sign_up ( if user choose 2)
       Sign up :
@@ -26,12 +29,15 @@ By entering "Enter" to be back pre-lever at every level.
             - "Registered successfully." will inform users
       - if Sign up successfully, return to first level. "Enter your action(1.Log_in 2.Sign_up 3.Quit)"
 
+
 3.Quit ( if user choose 3)
       Quit from the-Dora-Dictionary :
             - "Thanks for using the Dora Dictionary."
 
 
+
 ## Second Level (search words / view savings words /  word-guessing game.)
+
 1.Search English Words.
 2.Search My_Vocabs. 
  - view users saving words
