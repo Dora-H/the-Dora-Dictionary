@@ -8,7 +8,7 @@ By entering "Enter" to be back pre-lever at every level.
 ## First Level (Enter your action(1.Log_in 2.Sign_up 3.Quit))
 #### 1.Log_in ( if user choose 1) 
 Log in (name and password) :
-   - if log in successfully
+   - If log in successfully
    - "Logged in successfully." will inform users
    - Jump to second level.(1.Search English Words. 2.Search My_Vocabs. 3.Game of Word Challenge.)
 #### 2.Sign_up ( if user choose 2)
@@ -23,9 +23,9 @@ Set up password :
    - 6-digit code
    - Digits can be repeated e.g 888
    - Verify password again
-   - if register successfully
+   - If register successfully
    - "Registered successfully." will inform users
-   - if sign up successfully, return to first level. "Enter your action(1.Log_in 2.Sign_up 3.Quit)"
+   - If sign up successfully, return to first level. "Enter your action(1.Log_in 2.Sign_up 3.Quit)"
    
 #### 3.Quit ( if user choose 3)
 Quit from the-Dora-Dictionary :
@@ -34,9 +34,9 @@ Quit from the-Dora-Dictionary :
 ## Second Level (search words / view savings words /  word-guessing game.)
  #### 1.Search English Words.
  #### 2.Search My_Vocabs. 
-  - view users saving words
+  - View users saving words
   - No duplicate saving
-  - no meanings saving function (only word, and part of speech)
+  - No meanings saving function (only word, and part of speech)
  #### 3.Game of Word Challenge.
-  - guess words for only 9 times
-  - no hints
+  - Guess words for only 9 times
+  - No hints
