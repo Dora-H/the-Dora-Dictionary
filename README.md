@@ -5,6 +5,50 @@
 By entering "Enter" to be back pre-lever at every level.
 
 
+## Dictionary Client Requirements
+● Python 3.5  
+● socket   
+● time   
+● sys  
+● os   
+● string  
+● getpass  
+● random  
+
+
+## Functions
+● do_GOWC    
+● do_search   
+● do_login   
+● do_register  
+● snd_msg  
+● recv_msg  
+● main
+
+
+## Dictionary Server Requirements
+● Python 3.5  
+● socket   
+● time   
+● sys  
+● os   
+● pymysql  
+● signal  
+● re
+
+
+## Functions 
+● do_search   
+● do_login   
+● do_register  
+● insert_vocabs   
+● do_history  
+● do_GOWC  
+● recv_msg  
+● main 
+
+
+
 ## First Level (Enter your action(1.Log_in 2.Sign_up 3.Quit))
 #### 1.Log_in ( if user choose 1) 
 Log in (name and password) :
