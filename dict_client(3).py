@@ -1,13 +1,10 @@
-'''
-	name  :Dora
-	date  :09/11/2020 ~09/20/2020
-	topic :dictionary client
-	env   :python 3.5 mysql 
-'''
 from socket import *
-import sys,os,string
+import sys
+import os
+import string
 from time import sleep
-import getpass,random
+import getpass
+import random
 
 
 def do_GOWC():
