@@ -1,11 +1,9 @@
-'''
-	name  :Dora
-	date  :09/11/2020 ~09/20/2020
-	topic :dictionary server
-	env   :python 3.5 mysql 
-'''
 from socket import *
-import sys,os,signal,time,pymysql,re
+import sys
+import os
+import signal
+import pymysql
+import re
 from time import sleep
 
 # define global variables
